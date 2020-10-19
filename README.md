@@ -1,8 +1,6 @@
 
 ### etos-keywordspotting 
 
-CNNs for Keyword Spotting for [ETOS](https://etos.world) Ecosystem.
-
 PyTorch reimplementation of Google's TensorFlow convolutional neural networks for keyword spotting, which accompanies the recent release of their [Speech Commands Dataset](https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html). For more details, please consult our writeup:
 
 + Raphael Tang, Jimmy Lin. [Honk: A PyTorch Reimplementation of Convolutional Neural Networks for Keyword Spotting.](https://arxiv.org/abs/1710.06554) _arXiv:1710.06554_, October 2017.
